@@ -16,7 +16,7 @@ import './theme/theme.less'
 // import './custom-icons'
 
 
-Vue.use(VueSVGIcon)
+// Vue.use(VueSVGIcon)
 
 
 

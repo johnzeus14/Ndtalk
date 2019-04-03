@@ -20,18 +20,18 @@
           
         <ul class="uk-navbar-nav">
             <li><router-link to="/">  <div>
-              <svgicon icon = "map-pin" height="35" width = "40" color = "white">  </svgicon>
+             <!--  <svgicon icon = "map-pin" height="35" width = "40" color = "white">  </svgicon> -->
               Home
      
             </div></router-link> </li>
            
              <li><router-link to="/">  <div>
-              <svgicon icon = "correct" height="35" width = "40" color = "white">  </svgicon> 
+            <!--   <svgicon icon = "correct" height="35" width = "40" color = "white">  </svgicon>  -->
               Deals
     
             </div></router-link> </li>
               <li><router-link to="/">  <div>
-              <svgicon icon = "visa" height="35" width = "40" color = "white">  </svgicon> 
+              <!-- <svgicon icon = "visa" height="35" width = "40" color = "white">  </svgicon>  -->
               Visa
 
             </div></router-link> </li>
