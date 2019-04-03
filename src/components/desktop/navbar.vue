@@ -20,16 +20,12 @@
           
         <ul class="uk-navbar-nav">
             <li><router-link to="/">  <div>
-              <svgicon icon = "placeholder" height="35" width = "40" color = "#FFD700">  </svgicon>
+              <svgicon icon = "home" height="35" width = "40" color = "#FFD700">  </svgicon>
               Home
      
             </div></router-link> </li>
            
-             <li><router-link to="/">  <div>
-              <svgicon icon = "instagram" height="35" width = "40" color = "  #FFD700">  </svgicon> 
-              Catch Nd talks
-    
-            </div></router-link> </li>
+            
               <li><router-link to="/">  <div>
               <!-- <svgicon icon = "visa" height="35" width = "40" color = "white">  </svgicon>  -->
                Bio
@@ -41,7 +37,11 @@
             <!--  button components is to be here -->
 
             </div></li>
-            
+             <li><router-link to="/">  <div>
+              <svgicon icon = "instagram" height="35" width = "40" color = " #FFD700">  </svgicon> 
+             Gallery
+    
+            </div></router-link> </li>
             
         </ul>
 

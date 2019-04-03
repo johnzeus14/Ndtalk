@@ -5,22 +5,10 @@
          <nav class="uk-navbar-container"uk-navbar>
        
 
-            <div class="uk-navbar-left">
-             <div>
-              
-            <ul class="uk-navbar-nav">
-                <li><router-link to="/profile">  <!-- <svgicon icon = "messenger" height="23" width = "30" color = "white">  </svgicon>  --></router-link> </li>
-               
-            </ul>
-
-            </div>
-
-          </div>
-
-
+        
         
             
-            <div class="uk-navbar-center">
+            <div class="uk-navbar-left">
         
             <div>
                 <a class="uk-navbar-item uk-logo" href="#">{{brand}}</a>
@@ -35,7 +23,7 @@
               <div>
               
             <ul class="uk-navbar-nav">
-                <li><router-link to="/">  <!-- <svgicon icon = "phone" height="23" width = "30" color = "white">  </svgicon>  --></router-link> </li>
+                <li class="animated infinite bounce delay-2s"><router-link to="/">  <svgicon icon = "more" height="23" width = "30" color = "#FFD700">  </svgicon> </router-link> </li>
                
             </ul>
 

@@ -10,7 +10,7 @@ import VueSVGIcon from 'vue-svgicon'
 // import uikit components
 import 'uikit/dist/js/uikit.js'
 import './theme/theme.less'
-
+import 'animate.css/animate.min.css'
 
 
 // icons
