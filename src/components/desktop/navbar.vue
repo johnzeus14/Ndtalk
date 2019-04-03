@@ -8,7 +8,7 @@
 
         <div class="uk-navbar-left">
           <div>
-            <a class="uk-navbar-item uk-logo" href="#">{{brand}}</a>
+            <a class="uk-navbar-item uk-logo animated infinite heartBeat delay-2s" href="#">{{brand}}</a>
         </div>
 
         </div>
