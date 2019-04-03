@@ -27,21 +27,23 @@
            
             
               <li><router-link to="/">  <div>
-              <!-- <svgicon icon = "visa" height="35" width = "40" color = "white">  </svgicon>  -->
+              <svgicon icon = "user" height="35" width = "40" color = "#FFD700">  </svgicon> 
                Bio
 
             </div></router-link> </li>
-
-
-              <li> <div>
-            <!--  button components is to be here -->
-
-            </div></li>
-             <li><router-link to="/">  <div>
+               <li><router-link to="/">  <div>
               <svgicon icon = "instagram" height="35" width = "40" color = " #FFD700">  </svgicon> 
              Gallery
     
             </div></router-link> </li>
+
+              <li> 
+
+         
+                   <a class="uk-button uk-button-default" href=""> About Me</a>
+           
+              </li>
+            
             
         </ul>
 
