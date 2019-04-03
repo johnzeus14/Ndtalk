@@ -20,19 +20,19 @@
           
         <ul class="uk-navbar-nav">
             <li><router-link to="/">  <div>
-             <!--  <svgicon icon = "map-pin" height="35" width = "40" color = "white">  </svgicon> -->
+              <svgicon icon = "placeholder" height="35" width = "40" color = "#FFD700">  </svgicon>
               Home
      
             </div></router-link> </li>
            
              <li><router-link to="/">  <div>
-            <!--   <svgicon icon = "correct" height="35" width = "40" color = "white">  </svgicon>  -->
-              Deals
+              <svgicon icon = "instagram" height="35" width = "40" color = "  #FFD700">  </svgicon> 
+              Catch Nd talks
     
             </div></router-link> </li>
               <li><router-link to="/">  <div>
               <!-- <svgicon icon = "visa" height="35" width = "40" color = "white">  </svgicon>  -->
-              Visa
+               Bio
 
             </div></router-link> </li>
 
@@ -71,7 +71,7 @@ import {mapActions} from 'vuex';
 export default {
   data(){
     return{
-      brand:'Travel PLanner',
+      brand:'Nd Talks',
     }
   },
 methods :{

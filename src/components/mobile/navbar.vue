@@ -55,7 +55,7 @@
 export default {
   data(){
     return{
-      brand:'Travel Planner',
+      brand:'Nd Talks',
     }
   }
 
